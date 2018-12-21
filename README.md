@@ -1,2 +1,3 @@
-# naiveBayes
-Algoritmo de Classificação - Naive Bayes
+# naiveBayes  
+
+Algoritmo de Classificação - Naive Bayes (JavaScript)
